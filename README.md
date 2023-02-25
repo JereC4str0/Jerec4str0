@@ -18,7 +18,7 @@
 
 <a href="https://github.com/jerec4str0/">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=jerec4str0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=42C920&icon_color=2234AE&text_color=42C920&bg_color=0,000000,000000" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jerec4str0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=42C920&icon_color=2234AE&text_color=42C920&bg_color=0,000000,000000" width="400"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerec4str0&show_icons=true&locale=en&layout=compact&line_height=20&title_color=42C920&icon_color=2234AE&text_color=42C920&bg_color=0,000000,000000" width="400" />
 
@@ -51,6 +51,14 @@
 <li>
 <a href="mailto:jerecastro2012@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  jerecastro2012-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+	
+<li>
+<a href="https://jerec4str0.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white style="margin-bottom: 5px;" />
 </a>
 </li>
 	 
