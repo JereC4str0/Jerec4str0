@@ -18,7 +18,7 @@
 
 <a href="https://github.com/jerec4str0/">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=jerec4str0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=42C920&icon_color=2234AE&text_color=42C920&bg_color=0,000000,000000" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jerec4str0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=42C920&icon_color=2234AE&text_color=42C920&bg_color=0,000000,000000" width="450"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerec4str0&show_icons=true&locale=en&layout=compact&line_height=20&title_color=42C920&icon_color=2234AE&text_color=42C920&bg_color=0,000000,000000" width="400" />
 
