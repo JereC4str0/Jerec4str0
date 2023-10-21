@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Jeremias Castro </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Fonts&color=42C920&size=25&center=true&vCenter=true&width=800&height=100&lines=I'm+passionate+about+open-source+software..&hearts;++;Linux+lover+exploring+endless+possibilities,;Lifelong+learner+and+coding+enthusiast,;Committed+to+positive+change,;Life+is+better+with+cats,;Thank+you+for+visiting+my+profile..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Fonts&color=42C920&size=25&center=true&vCenter=true&width=800&height=100&lines=;Life+is+better+with+cats,;Thank+you+for+visiting+my+profile..<3"></a>
 </p>
 
 <a href=#><img src="https://user-images.githubusercontent.com/56790144/221336513-e7ce2422-056e-4e22-8293-ad17c88e3a05.svg"></a>
