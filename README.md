@@ -12,7 +12,6 @@
 <br>
 
 <p align="center"> 
-  Visitor count<br><br>
   <img src="https://user-images.githubusercontent.com/56790144/221336513-e7ce2422-056e-4e22-8293-ad17c88e3a05.svg" />
 </p>
 
@@ -65,7 +64,6 @@
 <br><br>
 
 <p align="center"> 
-  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/jerec4str0/count.svg" />
 </p>
 
